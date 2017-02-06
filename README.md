@@ -1,5 +1,3 @@
-style:
-
 # My first VR app as part of Udacity VR Nanodegree
 
 ###AnantaKrRoy_Project1
